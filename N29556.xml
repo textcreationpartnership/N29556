@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <body>
          <div type="speech">
-            <pb facs="tcp:039360_0000_10146F18503300D0"/>
-            <pb facs="tcp:039360_0001_10146ED47297B8A0"/>
+            <pb facs="unknown:039360_0000_10146F18503300D0"/>
+            <pb facs="unknown:039360_0001_10146ED47297B8A0"/>
             <head>HIS EXCELLENCY'S SPEECH, TO THE HONOURABLE THE GENERAL ASSEMBLY <hi>MARYLAND,</hi>
                <date>
                   <hi>April</hi> the 26<hi>th. Anno Domini</hi> 1700.</date>
@@ -133,7 +133,7 @@
             <p>I ſhall not here enumerate what other affairs we are to concert this Seſſions of Aſſembly, but will leave you to proceed in the uſual way of Conference and Meſſage, being ready to joyn with you wherein we may promote his Majeſty's Service, on which depends the Good of this Province.</p>
          </div>
          <div type="answer">
-            <pb facs="tcp:039360_0002_10146EDA2150A408"/>
+            <pb facs="unknown:039360_0002_10146EDA2150A408"/>
             <head>THE GENERAL ASSEMBLY'S ANSWER TO HIS EXCELLENCY'S SPEECH</head>
             <opener>
                <salute>MAY IT PLEASE YOUR EXCELLENCY,</salute>
